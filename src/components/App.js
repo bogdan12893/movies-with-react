@@ -9,7 +9,6 @@ export default class App extends React.Component {
           <div>
             <h1>Movie List</h1>
             <MovieList movies={movies}/>
-
           </div>
         );
     }
