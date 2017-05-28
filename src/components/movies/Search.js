@@ -1,10 +1,11 @@
 import React from 'react';
-export default class Search extends React.Component {
+import './Search.css';
 
+export default class Search extends React.Component {
   render() {
     return (
       <input type="text"
-        placeholder='Type here'
+        placeholder='Search movies...'
         onChange={this.props.onSearch} />
     );
   }

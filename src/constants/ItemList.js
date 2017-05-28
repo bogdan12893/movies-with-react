@@ -18,4 +18,20 @@ export const movies = [{
   id: 5,
   name: 'Because of Winn-Dixie',
   year: '2005'
+},{
+  id: 6,
+  name: 'The Shawshank Redemption',
+  year: '1994'
+},{
+  id: 7,
+  name: 'The Godfather',
+  year: '1972'
+},{
+  id: 8,
+  name: 'Schindlers List',
+  year: '1993'
+},{
+  id: 9,
+  name: 'Pulp Fiction',
+  year: '1994'
 }]

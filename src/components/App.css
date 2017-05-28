@@ -1,0 +1,32 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 1em;
+
+}
+
+.container-one{
+    width: 50%;
+    margin: 0 auto;
+    background-color: #84daf2;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    box-sizing: border-box;
+}
+.container-two{
+    width: 50%;
+    margin: 0 auto;
+    background-color: #84daf2;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    box-sizing: border-box;
+}
+
+
+.movie-list-header {
+    font-size: 2rem;
+    padding: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
